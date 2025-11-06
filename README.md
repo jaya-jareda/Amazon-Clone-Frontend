@@ -24,30 +24,3 @@ CSS3 — for styling and responsiveness
 
 JavaScript (ES6) — for interactivity and DOM manipulation
 
-🖥️ Preview
-
-(Add a screenshot or link here)
-Example:
-
-
-⚙️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/amazon-clone.git
-
-
-Open the folder:
-
-cd amazon-clone
-
-
-Open index.html in your browser — no server setup required!
-
-📈 Future Improvements
-
-Add product filtering and sorting
-
-Implement shopping cart functionality with local storage
-
-Integrate backend (Node.js / Firebase) for login and checkout
